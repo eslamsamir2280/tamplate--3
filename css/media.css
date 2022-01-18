@@ -156,3 +156,10 @@ align-items: center;
     padding: 5px;
   }
 }
+  .articles .box {
+    align-items: center;
+  }
+  .articles .container {
+    justify-content: center;
+  }
+
