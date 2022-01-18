@@ -43,6 +43,10 @@
   .events .subscribe form input[type="submit"] {
     border-radius: 0;
   }
+
+.articles .box {
+align-items: center;
+}
 }
 @media (max-width: 767px) {
   .events .subscribe form input[type="email"] {
